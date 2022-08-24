@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TippanaRavi
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ..<<New Technologies
 - 🌱 I’m currently learning ...cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
